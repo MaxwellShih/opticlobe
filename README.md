@@ -1,4 +1,5 @@
 # opticlobe
+### This code is associated with the paper from David and Nern et al., "A genetic, genomic, and computational resource for exploring neural circuit function". eLife, 2020. http://dx.doi.org/10.7554/eLife.50901
 
 This package contains code to analyze RNA-seq data and generate figures and
 tables presented in:
